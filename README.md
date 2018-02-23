@@ -22,4 +22,4 @@
   * ```$ ./kadai -hour -host -file logfile```
 
 * _logfile1_ , _logfile2_ から期間(2000/1/1 ~ 2009/12/31)を指定して時間毎のアクセス件数・ホスト名毎のアクセス件数を表示したい時
-  * ```$ ./kadai -hour -host -period 01/Jan/2000 31/Dec/2009 logfile1 logfile2```
+  * ```$ ./kadai -hour -host -period 01/Jan/2000 31/Dec/2009 -file logfile1 logfile2```
